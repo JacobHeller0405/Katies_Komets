@@ -1,0 +1,45 @@
+.carousel-item{
+  width: 100%;
+}
+.titleplease{
+  font-family: Lucida Handwriting;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.footer {
+  width: 100%;
+  background-color: #36454F;
+  bottom: 0px;
+  color: white;
+  font-size: 20px;
+}
+
+.social img {
+  height: 30px;
+  width: 30px;
+}
+
+#instagram {
+  height: 30px;
+  width: 50px;
+}
+
+.coaches {
+  background-color: #e0e0e0;
+  height: 100%;
+}
+
+.players {
+  background-color: white;
+  height: 100%;
+}
+.sponsors{
+  height:125px;
+  width:200px;
+}
