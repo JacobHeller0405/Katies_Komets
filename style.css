@@ -1,6 +1,12 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+
 .carousel-item{
   width: 100%;
 }
+
 .titleplease{
   font-family: Lucida Handwriting;
 }
@@ -42,4 +48,25 @@
 .sponsors{
   height:125px;
   width:200px;
+}
+
+/* The hero image */
+.hero-image {
+    background-image: url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  /* Set a specific height */
+  height: 100%;
+  width: 100%;
+  top: 14px;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.index-jumbotron {
+  background-image: url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
+}
+.contact-jumbo {
+  background-color: #36454F;
 }
