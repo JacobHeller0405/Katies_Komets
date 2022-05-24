@@ -70,3 +70,6 @@ body {
 .contact-jumbo {
   background-color: #36454F;
 }
+.intro-text{
+   text-shadow: 2px 2px #ff0000;
+}
