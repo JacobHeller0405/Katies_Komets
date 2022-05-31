@@ -21,7 +21,7 @@ body {
 .footer {
   width: 100%;
   background-color: #36454F;
-  bottom: 0px;
+  bottom: 0;
   color: white;
   font-size: 20px;
 }
@@ -71,5 +71,6 @@ body {
   background-color: #36454F;
 }
 .intro-text{
-   text-shadow: 2px 2px #ff0000;
+   text-shadow: 2px 2px 8px #FF0000;
+   width: 50%;
 }
