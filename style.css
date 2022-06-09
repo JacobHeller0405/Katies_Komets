@@ -70,7 +70,8 @@ body {
   background-image: url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
 }
 .contact-jumbo {
-  background-color: #36454F;
+  color: red;
+  background-color: #656270;
 }
 .intro-text{
    text-shadow: 2px 2px 8px #FF0000;
@@ -90,4 +91,77 @@ hr{
 	border-bottom: 1px solid #FF0000;
 	box-shadow: 0 20px 20px -20px #333;
   margin: -50px auto 10px;
+}
+.contentWrapper {
+	width: 750px;
+	padding: 0 20px;
+	margin: 0 auto;
+	position: relative;
+	border-radius:25px;
+}
+
+header .contentWrapper {
+	padding: 115px 0 50px;
+}
+
+#feedbackForm {
+   font-family: "Times New Roman", Times, serif;
+	margin-top: 10px;
+	padding: 0 20px 15px 20px;
+}
+#feedbackForm legend {
+	font-size: 2em;
+	font-weight: 200;
+	padding: 0 .2em;
+}
+#feedbackForm label {
+	display: block;
+	padding-top: 1em;
+}
+#feedbackForm label:first-of-type {
+	margin-top: -.9em;
+}
+#nameLabel {
+	margin-top: -1em;
+}
+#submit, #clearCookie {
+	display: block;
+	font-size: 1em;
+	color: #FFF;
+	text-transform: uppercase;
+	background: #36454F;
+	padding: .8em 1em .7em;
+	border: 0;
+	border-bottom: 3px solid #808080;
+	margin-top: 15px;
+}
+.textfield {
+ font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	padding: 7px;
+	background: #efefef;
+	border: 1px solid #bbb;
+	width: 97%;
+}
+.textfield:focus {
+	background: #FBF8D2;
+}
+.nav ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #FBF8D2;
+ border-radius:25px;
+}
+
+.ourteam {
+  height: 100%;
+}
+.teamBody{
+  background-color:white;
+
+}
+.ourteam-jumbo{
+  background-image:url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
 }
