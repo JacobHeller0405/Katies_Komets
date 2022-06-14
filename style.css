@@ -68,6 +68,9 @@ body {
 }
 .index-jumbotron {
   background-image: url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
+  background-repeat: no-repeat;
+  background-color: #4d0000;
+  background-position: center;
 }
 .contact-jumbo {
   color: red;
@@ -164,4 +167,14 @@ header .contentWrapper {
 }
 .ourteam-jumbo{
   background-image:url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
+  background-repeat: no-repeat;
+  background-color: #4d0000;
+  background-position: center;
+}
+
+.schedule-jumbo{
+  background-image:url("https://www.katieskomets.org/images/IMG_1006[1].jpg");
+  background-repeat: no-repeat;
+  background-color: #4d0000;
+  background-position: center;
 }
